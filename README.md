@@ -21,4 +21,4 @@ Following the generation of five distinct samples using these techniques, five m
 
 In above table, each row corresponds to a sampling technique, and each column represent the accuracy achieved by each model applied to the respective sample generated using that respective technique.
 <br>
-### The RANDOM FOREST outperformed all other models when applied to Stratified Sampling Technique.
+### The DECISION TREES outperformed all other models when applied to Stratified Sampling Technique.
